@@ -1,0 +1,8 @@
+node_modules
+dist
+package.json
+sass
+package-lock.json
+.vscode
+css/fonts
+css/icon-font.css
